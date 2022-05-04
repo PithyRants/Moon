@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beginning"
-date: 2022-05-04
+date: 2022-05-01
 excerpt: "Pith. The re-beginning."
 tags: [first post, Pith, yeeee]
 comments: true
