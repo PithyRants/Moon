@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "VMlol"
+title: "RIP VMworld"
 date: 2022-05-04
-excerpt: "VMware"
+excerpt: "This is the way the world ends, not with a bang, but a whimper."
 tags: [VMware, Pith, yeeee]
 comments: true
 ---
@@ -17,5 +17,3 @@ VMworld has nearly twenty years of brand awareness, i'll just rename it to somet
 ### VMware Explore the invoice and realign your priorities.
 
 ### VMware Explore regressive migration strategies.
-
-Last line of text.
