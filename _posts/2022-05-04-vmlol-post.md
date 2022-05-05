@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "VMwhatnow"
+title: "VMlol"
 date: 2022-05-04
-excerpt: "Change. It's inevitable."
-tags: [VMworld, Explore?, Pith]
+excerpt: "VMware"
+tags: [VMware, Pith, yeeee]
 comments: true
 ---
 
@@ -17,3 +17,5 @@ VMworld has nearly twenty years of brand awareness, i'll just rename it to somet
 ### VMware Explore the invoice and realign your priorities.
 
 ### VMware Explore regressive migration strategies.
+
+Last line of text.
